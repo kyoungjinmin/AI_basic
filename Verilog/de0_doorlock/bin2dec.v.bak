@@ -1,0 +1,12 @@
+module bin2dec(
+  num_b,
+  num_h
+  );
+  
+  input [9:0]num_b;
+  output [3:0] num_h;
+  
+  assign num_h=num_h;
+  
+  
+  endmodule;

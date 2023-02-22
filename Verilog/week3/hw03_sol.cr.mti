@@ -1,0 +1,21 @@
+C:/Verilog/week3/fulladd16.v {1 {vlog -work work C:/Verilog/week3/fulladd16.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module fulladd16
+
+Top level modules:
+	fulladd16
+
+} {} {}} C:/Verilog/week3/fulladd4.v {1 {vlog -work work C:/Verilog/week3/fulladd4.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module fulladd4
+
+Top level modules:
+	fulladd4
+
+} {} {}} C:/Verilog/week3/tb_fulladd16.v {0 {vcom -work work -2002 -explicit C:/Verilog/week3/tb_fulladd16.v
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+** Error: C:/Verilog/week3/tb_fulladd16.v(1): near "timescal": 
+** Error: C:/Verilog/week3/tb_fulladd16.v(1): VHDL Compiler exiting
+
+} {4.0 6.0} {}}

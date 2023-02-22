@@ -1,0 +1,36 @@
+C:/Verilog/week6/h_assign.v {1 {vlog -work work C:/Verilog/week6/h_assign.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module h_assign
+
+Top level modules:
+	h_assign
+
+} {} {}} C:/Verilog/week6/h_always.v {1 {vlog -work work C:/Verilog/week6/h_always.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module h_always
+
+Top level modules:
+	h_always
+
+} {} {}} C:/Verilog/week6/always_case.v {1 {vlog -work work C:/Verilog/week6/always_case.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module always_case
+
+Top level modules:
+	always_case
+
+} {} {}} C:/Verilog/week6/always_tb.v {1 {vlog -work work C:/Verilog/week6/always_tb.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module always_tb
+
+Top level modules:
+	always_tb
+
+} {} {}} C:/Verilog/week6/always_if_else.v {1 {vlog -work work C:/Verilog/week6/always_if_else.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module always_if_else
+
+Top level modules:
+	always_if_else
+
+} {} {}}

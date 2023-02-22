@@ -1,0 +1,14 @@
+|final_359
+clk => open~reg0.CLK
+clk => lock~reg0.CLK
+n_rst => lock~reg0.ACLR
+n_rst => open~reg0.ACLR
+button_2_1[0] => ~NO_FANOUT~
+button_2_1[1] => ~NO_FANOUT~
+button_star => ~NO_FANOUT~
+lock <= lock~reg0.DB_MAX_OUTPUT_PORT_TYPE
+open <= open~reg0.DB_MAX_OUTPUT_PORT_TYPE
+led_red <= <VCC>
+led_green <= <GND>
+
+

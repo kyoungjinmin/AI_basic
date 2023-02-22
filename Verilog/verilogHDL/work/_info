@@ -1,0 +1,62 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\altera\13.1
+vfulladd16
+Z1 !s100 mg7=L8OQCca0DkB3Z9[j]1
+Z2 INV[7k_TV`MHXFWRlYGX5T0
+Z3 V5TXIn7BNSLiKYO=<6X=132
+Z4 dC:\verilogHDL
+Z5 w1600292438
+Z6 8C:/verilogHDL/L02_실습소스코드/fulladd16.v
+Z7 FC:/verilogHDL/L02_실습소스코드/fulladd16.v
+L0 3
+Z8 OV;L;10.1d;51
+r1
+31
+Z9 !s90 -reportprogress|300|-work|work|C:/verilogHDL/L02_실습소스코드/fulladd16.v|
+Z10 o-work work -O0
+!i10b 1
+!s85 0
+Z11 !s108 1663728526.607000
+Z12 !s107 C:/verilogHDL/L02_실습소스코드/fulladd16.v|
+!s101 -O0
+vfulladd4
+Z13 !s100 eCSQKVR]3jTNXMieO7MH11
+Z14 If88Z:<2[Y<IJ^9n[R9_G73
+Z15 V=Wg9]B[_b_D_SW^HiVQ`A1
+R4
+Z16 w1663728492
+Z17 8C:/verilogHDL/L02_실습소스코드/fulladd4.v
+Z18 FC:/verilogHDL/L02_실습소스코드/fulladd4.v
+L0 3
+R8
+r1
+31
+Z19 !s90 -reportprogress|300|-work|work|C:/verilogHDL/L02_실습소스코드/fulladd4.v|
+R10
+Z20 !s108 1663728526.525000
+Z21 !s107 C:/verilogHDL/L02_실습소스코드/fulladd4.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vtb_fulladd16
+!i10b 1
+!s100 DG5FbzmYJi@1gi@P8m7lD2
+IoR7IZa[ba`E9HYd[?MFjn2
+Z22 VUd:8;QQ>Rk7=2>k:7OAiG1
+R4
+w1663728534
+Z23 8C:/verilogHDL/L02_실습소스코드/tb_fulladd16.v
+Z24 FC:/verilogHDL/L02_실습소스코드/tb_fulladd16.v
+L0 3
+R8
+r1
+!s85 0
+31
+!s108 1663728534.542000
+!s107 C:/verilogHDL/L02_실습소스코드/tb_fulladd16.v|
+Z25 !s90 -reportprogress|300|-work|work|C:/verilogHDL/L02_실습소스코드/tb_fulladd16.v|
+!s101 -O0
+R10

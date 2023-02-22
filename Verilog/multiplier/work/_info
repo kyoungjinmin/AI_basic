@@ -1,0 +1,119 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Verilog\doorlock
+varray_multiplier
+Z1 !s100 nOJlT7n@<OkI^FVW:[fD50
+Z2 Ioe`XfWT7fzF>g[fedNH3]3
+Z3 VCk`@ST<_Rf8e:0<ClVO^51
+Z4 dC:\Verilog\multiplier
+Z5 w1669874278
+Z6 8C:/Verilog/multiplier/array_multiplier.v
+Z7 FC:/Verilog/multiplier/array_multiplier.v
+L0 1
+Z8 OV;L;10.1d;51
+r1
+31
+Z9 !s90 -reportprogress|300|-work|work|C:/Verilog/multiplier/array_multiplier.v|
+Z10 o-work work -O0
+Z11 !s108 1669881125.474000
+Z12 !s107 C:/Verilog/multiplier/array_multiplier.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vcarray_save_multiplier
+Z13 IHT@>A5F1Fezk?HK69^QYR2
+Z14 V`M@^OzOkk][E_]oF<iH`P3
+R4
+Z15 w1669869491
+Z16 8C:/Verilog/multiplier/carry_save_multiplier.v
+Z17 FC:/Verilog/multiplier/carry_save_multiplier.v
+L0 1
+R8
+r1
+31
+Z18 !s90 -reportprogress|300|-work|work|C:/Verilog/multiplier/carry_save_multiplier.v|
+R10
+Z19 !s100 @kO=k`IUELO;E4<?n[6_X0
+Z20 !s108 1669869491.235000
+Z21 !s107 C:/Verilog/multiplier/carry_save_multiplier.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vcarry_save_multiplier
+Z22 I74jR?o7]z_Y@lzIT4Y7OO1
+Z23 V>[ES_We?b;C1R[]TC?]V33
+R4
+Z24 w1669881127
+R16
+R17
+L0 1
+R8
+r1
+31
+R18
+R10
+Z25 !s100 Id=ZJBBNi@6UngRJh@D=22
+Z26 !s108 1669881127.190000
+R21
+!i10b 1
+!s85 0
+!s101 -O0
+vfull_adder
+Z27 !s100 AI1;RYDAk><:ji]MUNO8h1
+Z28 I8X6zX4h;_PfN:z?[Cbz0B1
+Z29 VaZjkh0Sz=[F:?OlVzLbUa1
+R4
+Z30 w1669871684
+Z31 8C:/Verilog/multiplier/full_adder.v
+Z32 FC:/Verilog/multiplier/full_adder.v
+L0 1
+R8
+r1
+31
+Z33 !s90 -reportprogress|300|-work|work|C:/Verilog/multiplier/full_adder.v|
+R10
+!i10b 1
+!s85 0
+Z34 !s108 1669881127.375000
+Z35 !s107 C:/Verilog/multiplier/full_adder.v|
+!s101 -O0
+vhalf_adder
+Z36 !s100 7W>a]4Omm3oSkU32bl[_D3
+Z37 I@TRM1ERmJAkb5>z7;<>F[2
+Z38 V:?M<Z`^MaBZUlSEmEZ:lC3
+R4
+Z39 w1669871683
+Z40 8C:/Verilog/multiplier/half_adder.v
+Z41 FC:/Verilog/multiplier/half_adder.v
+L0 1
+R8
+r1
+31
+Z42 !s90 -reportprogress|300|-work|work|C:/Verilog/multiplier/half_adder.v|
+R10
+Z43 !s108 1669881127.277000
+Z44 !s107 C:/Verilog/multiplier/half_adder.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vmultiplier_tb
+!i10b 1
+Z45 !s100 XFUL31BD6G;IDLXm`Oc;<1
+Z46 I?dHz8Gg2n?ZRc9[oh0Egf2
+Z47 V?HfT_VY_KlHCLX`cEj:3C1
+R4
+Z48 w1669874693
+Z49 8C:/Verilog/multiplier/multiplier_tb.v
+Z50 FC:/Verilog/multiplier/multiplier_tb.v
+L0 3
+R8
+r1
+!s85 0
+31
+!s108 1669881127.464000
+!s107 C:/Verilog/multiplier/multiplier_tb.v|
+Z51 !s90 -reportprogress|300|-work|work|C:/Verilog/multiplier/multiplier_tb.v|
+!s101 -O0
+R10

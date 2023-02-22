@@ -1,0 +1,13 @@
+vendor_name = ModelSim
+source_file = 1, C:/Verilog/final/final_359.v
+source_file = 1, C:/Verilog/final/db/final_359.cbx.xml
+design_name = final_359
+instance = comp, \lock~output\, lock~output, final_359, 1
+instance = comp, \open~output\, open~output, final_359, 1
+instance = comp, \led_red~output\, led_red~output, final_359, 1
+instance = comp, \led_green~output\, led_green~output, final_359, 1
+instance = comp, \clk~input\, clk~input, final_359, 1
+instance = comp, \n_rst~input\, n_rst~input, final_359, 1
+instance = comp, \button_2_1[0]~input\, button_2_1[0]~input, final_359, 1
+instance = comp, \button_2_1[1]~input\, button_2_1[1]~input, final_359, 1
+instance = comp, \button_star~input\, button_star~input, final_359, 1

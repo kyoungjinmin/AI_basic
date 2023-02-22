@@ -1,0 +1,100 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Verilog\week4
+vhw_always
+Z1 !s100 NRbXkPJER<08imFUEC]WS2
+Z2 Ib7WIz2f8eSYQjE?^eh5K?0
+Z3 V3JW?]>bAi@B0Rhg0EI^551
+Z4 dC:\Verilog\week5
+Z5 w1664939905
+Z6 8C:/Verilog/week5/hw_always.v
+Z7 FC:/Verilog/week5/hw_always.v
+L0 1
+Z8 OV;L;10.1d;51
+r1
+31
+Z9 !s90 -reportprogress|300|-work|work|C:/Verilog/week5/hw_always.v|
+Z10 o-work work -O0
+Z11 !s108 1664939934.592000
+Z12 !s107 C:/Verilog/week5/hw_always.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vhw_always_case
+Z13 I@GG1_[T7c2zb?=h9>mR_d1
+Z14 VcWA1L9DKbfQo:LTf_VXAQ2
+R4
+Z15 w1664939937
+Z16 8C:\Verilog\week5\hw_always_case.v
+Z17 FC:\Verilog\week5\hw_always_case.v
+L0 1
+R8
+r1
+31
+Z18 !s90 -reportprogress|300|-work|work|C:\Verilog\week5\hw_always_case.v|
+R10
+Z19 !s100 eP]Id>[KMC4EbTLQ5BIL02
+Z20 !s108 1664939938.154000
+Z21 !s107 C:\Verilog\week5\hw_always_case.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vhw_always_if_else
+Z22 !s100 5F3Hl?PJiJ<5km<iEeQS>2
+Z23 Il9X^<zQi3n2R_n@j?]Ao;3
+Z24 VZ41UA[DRT@=2JU@]c_0MY1
+R4
+Z25 w1664939907
+Z26 8C:\Verilog\week5\hw_always_if_else.v
+Z27 FC:\Verilog\week5\hw_always_if_else.v
+L0 1
+R8
+r1
+31
+Z28 !s90 -reportprogress|300|-work|work|C:\Verilog\week5\hw_always_if_else.v|
+R10
+Z29 !s108 1664939934.703000
+Z30 !s107 C:\Verilog\week5\hw_always_if_else.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vhw_assign
+Z31 !s100 <JU=;@JNGX3dH_LS5UZ7=1
+Z32 I3R5m`;:ME7D_=4lLHn[eC1
+Z33 VN@lZ3k7FOJm9N]XIa@nIZ0
+R4
+Z34 w1664939908
+Z35 8C:/Verilog/week5/hw_assign.v
+Z36 FC:/Verilog/week5/hw_assign.v
+L0 1
+R8
+r1
+31
+Z37 !s90 -reportprogress|300|-work|work|C:/Verilog/week5/hw_assign.v|
+R10
+!i10b 1
+!s85 0
+Z38 !s108 1664939938.242000
+Z39 !s107 C:/Verilog/week5/hw_assign.v|
+!s101 -O0
+vtb_hw
+!i10b 1
+Z40 !s100 zCCY`mNC:noGEFaT=;:JA2
+Z41 ID^S]R2z6V39[JZUh]i1cJ1
+Z42 VD9DiL2dZgo9iT:_j66UcC2
+R4
+Z43 w1664938270
+Z44 8C:/Verilog/week5/tb_hw.v
+Z45 FC:/Verilog/week5/tb_hw.v
+L0 3
+R8
+r1
+!s85 0
+31
+!s108 1664939938.329000
+!s107 C:/Verilog/week5/tb_hw.v|
+Z46 !s90 -reportprogress|300|-work|work|C:/Verilog/week5/tb_hw.v|
+!s101 -O0
+R10

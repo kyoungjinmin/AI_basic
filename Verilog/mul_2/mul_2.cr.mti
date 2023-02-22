@@ -1,0 +1,22 @@
+C:/Verilog/mul_2/multiplier.v {1 {vlog -work work C:/Verilog/mul_2/multiplier.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module multiplier
+
+Top level modules:
+	multiplier
+
+} {} {}} C:/Verilog/mul_2/fnd_encoder.v {1 {vlog -work work {C:\Verilog\mul_2\fnd_encoder.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module fnd_encoder
+
+Top level modules:
+	fnd_encoder
+
+} {} {}} C:/Verilog/mul_2/multiplier_tb.v {1 {vlog -work work C:/Verilog/mul_2/multiplier_tb.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module multiplier_tb
+
+Top level modules:
+	multiplier_tb
+
+} {} {}}

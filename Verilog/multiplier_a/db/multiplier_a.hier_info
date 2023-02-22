@@ -1,0 +1,151 @@
+|multiplier_a
+clk => product[0]~reg0.CLK
+clk => product[1]~reg0.CLK
+clk => product[2]~reg0.CLK
+clk => product[3]~reg0.CLK
+clk => product[4]~reg0.CLK
+clk => product[5]~reg0.CLK
+clk => product[6]~reg0.CLK
+clk => product[7]~reg0.CLK
+clk => m2_d[0].CLK
+clk => m2_d[1].CLK
+clk => m2_d[2].CLK
+clk => m2_d[3].CLK
+clk => m1_d[0].CLK
+clk => m1_d[1].CLK
+clk => m1_d[2].CLK
+clk => m1_d[3].CLK
+n_rst => product[0]~reg0.ACLR
+n_rst => product[1]~reg0.ACLR
+n_rst => product[2]~reg0.ACLR
+n_rst => product[3]~reg0.ACLR
+n_rst => product[4]~reg0.ACLR
+n_rst => product[5]~reg0.ACLR
+n_rst => product[6]~reg0.ACLR
+n_rst => product[7]~reg0.ACLR
+n_rst => m2_d[0].ACLR
+n_rst => m2_d[1].ACLR
+n_rst => m2_d[2].ACLR
+n_rst => m2_d[3].ACLR
+n_rst => m1_d[0].ACLR
+n_rst => m1_d[1].ACLR
+n_rst => m1_d[2].ACLR
+n_rst => m1_d[3].ACLR
+start => m1_d[3].ENA
+start => m1_d[2].ENA
+start => m1_d[1].ENA
+start => m1_d[0].ENA
+start => m2_d[3].ENA
+start => m2_d[2].ENA
+start => m2_d[1].ENA
+start => m2_d[0].ENA
+m1[0] => m1_d[0].DATAIN
+m1[1] => m1_d[1].DATAIN
+m1[2] => m1_d[2].DATAIN
+m1[3] => m1_d[3].DATAIN
+m2[0] => m2_d[0].DATAIN
+m2[1] => m2_d[1].DATAIN
+m2[2] => m2_d[2].DATAIN
+m2[3] => m2_d[3].DATAIN
+product[0] <= product[0]~reg0.DB_MAX_OUTPUT_PORT_TYPE
+product[1] <= product[1]~reg0.DB_MAX_OUTPUT_PORT_TYPE
+product[2] <= product[2]~reg0.DB_MAX_OUTPUT_PORT_TYPE
+product[3] <= product[3]~reg0.DB_MAX_OUTPUT_PORT_TYPE
+product[4] <= product[4]~reg0.DB_MAX_OUTPUT_PORT_TYPE
+product[5] <= product[5]~reg0.DB_MAX_OUTPUT_PORT_TYPE
+product[6] <= product[6]~reg0.DB_MAX_OUTPUT_PORT_TYPE
+product[7] <= product[7]~reg0.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|multiplier_a|half_adder:half_adder_0
+sum <= Add0.DB_MAX_OUTPUT_PORT_TYPE
+c_out <= Add0.DB_MAX_OUTPUT_PORT_TYPE
+a => Add0.IN1
+b => Add0.IN2
+
+
+|multiplier_a|full_adder:full_adder_0
+sum <= Add1.DB_MAX_OUTPUT_PORT_TYPE
+c_out <= Add1.DB_MAX_OUTPUT_PORT_TYPE
+a => Add0.IN1
+b => Add0.IN2
+c_in => Add1.IN4
+
+
+|multiplier_a|half_adder:half_adder_1
+sum <= Add0.DB_MAX_OUTPUT_PORT_TYPE
+c_out <= Add0.DB_MAX_OUTPUT_PORT_TYPE
+a => Add0.IN1
+b => Add0.IN2
+
+
+|multiplier_a|full_adder:full_adder_1
+sum <= Add1.DB_MAX_OUTPUT_PORT_TYPE
+c_out <= Add1.DB_MAX_OUTPUT_PORT_TYPE
+a => Add0.IN1
+b => Add0.IN2
+c_in => Add1.IN4
+
+
+|multiplier_a|full_adder:full_adder_2
+sum <= Add1.DB_MAX_OUTPUT_PORT_TYPE
+c_out <= Add1.DB_MAX_OUTPUT_PORT_TYPE
+a => Add0.IN1
+b => Add0.IN2
+c_in => Add1.IN4
+
+
+|multiplier_a|half_adder:half_adder_2
+sum <= Add0.DB_MAX_OUTPUT_PORT_TYPE
+c_out <= Add0.DB_MAX_OUTPUT_PORT_TYPE
+a => Add0.IN1
+b => Add0.IN2
+
+
+|multiplier_a|half_adder:half_adder_3
+sum <= Add0.DB_MAX_OUTPUT_PORT_TYPE
+c_out <= Add0.DB_MAX_OUTPUT_PORT_TYPE
+a => Add0.IN1
+b => Add0.IN2
+
+
+|multiplier_a|full_adder:full_adder_3
+sum <= Add1.DB_MAX_OUTPUT_PORT_TYPE
+c_out <= Add1.DB_MAX_OUTPUT_PORT_TYPE
+a => Add0.IN1
+b => Add0.IN2
+c_in => Add1.IN4
+
+
+|multiplier_a|full_adder:full_adder_4
+sum <= Add1.DB_MAX_OUTPUT_PORT_TYPE
+c_out <= Add1.DB_MAX_OUTPUT_PORT_TYPE
+a => Add0.IN1
+b => Add0.IN2
+c_in => Add1.IN4
+
+
+|multiplier_a|full_adder:full_adder_5
+sum <= Add1.DB_MAX_OUTPUT_PORT_TYPE
+c_out <= Add1.DB_MAX_OUTPUT_PORT_TYPE
+a => Add0.IN1
+b => Add0.IN2
+c_in => Add1.IN4
+
+
+|multiplier_a|full_adder:full_adder_6
+sum <= Add1.DB_MAX_OUTPUT_PORT_TYPE
+c_out <= Add1.DB_MAX_OUTPUT_PORT_TYPE
+a => Add0.IN1
+b => Add0.IN2
+c_in => Add1.IN4
+
+
+|multiplier_a|full_adder:full_adder_7
+sum <= Add1.DB_MAX_OUTPUT_PORT_TYPE
+c_out <= Add1.DB_MAX_OUTPUT_PORT_TYPE
+a => Add0.IN1
+b => Add0.IN2
+c_in => Add1.IN4
+
+

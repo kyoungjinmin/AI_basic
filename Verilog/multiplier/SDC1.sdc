@@ -1,0 +1,1 @@
+creat_clock -name clk -peiod 20[get_ports clk]

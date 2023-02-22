@@ -1,0 +1,43 @@
+C:/Verilog/doorlock/doorlock.v {1 {vlog -work work C:/Verilog/doorlock/doorlock.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module doorlock
+
+Top level modules:
+	doorlock
+
+} {} {}} C:/Verilog/doorlock/doorlock_2.v {1 {vlog -work work C:/Verilog/doorlock/doorlock_2.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module doorlock_2
+
+Top level modules:
+	doorlock_2
+
+} {} {}} C:/Verilog/doorlock/doorlock_tb.v {1 {vlog -work work C:/Verilog/doorlock/doorlock_tb.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module doorlock_tb
+
+Top level modules:
+	doorlock_tb
+
+} {} {}} C:/Verilog/doorlock/doorlock_2_tb.v {1 {vlog -work work C:/Verilog/doorlock/doorlock_2_tb.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module doorlock_2_tb
+
+Top level modules:
+	doorlock_2_tb
+
+} {} {}} C:/Verilog/doorlock/practice.v {1 {vlog -work work C:/Verilog/doorlock/practice.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module practice
+
+Top level modules:
+	practice
+
+} {} {}} C:/Verilog/doorlock/practice_tb.v {1 {vlog -work work C:/Verilog/doorlock/practice_tb.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module practice_tb
+
+Top level modules:
+	practice_tb
+
+} {} {}}

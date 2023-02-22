@@ -1,0 +1,15 @@
+C:/Verilog/week4/hw_assign.v {1 {vlog -work work C:/Verilog/week4/hw_assign.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module hw_assign
+
+Top level modules:
+	hw_assign
+
+} {} {}} C:/Verilog/week4/tb_hw_assign.v {1 {vlog -work work C:/Verilog/week4/tb_hw_assign.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module tb_hw_assign
+
+Top level modules:
+	tb_hw_assign
+
+} {} {}}

@@ -1,0 +1,88 @@
+module multiplier(
+clk,
+n_rst,
+start,
+multiplier_1,
+multiplicand,
+valid,
+product,
+fnd_01,
+fnd_02);  
+
+input clk;
+input n_rst;
+input start;
+input [3:0]multiplier_1;
+input [3:0]multiplicand;
+output valid;
+output [7:0]product;
+output [6:0]fnd_01;
+output [6:0]fnd_02;
+
+reg valid;
+reg [7:0]product;
+
+parameter S0=4'h0;
+parameter S1=4'h1;
+parameter S2=4'h2;
+parameter S3=4'h3;
+parameter S4=4'h4;
+parameter S5=4'h5;
+
+reg [3:0]state;
+reg [3:0]next_state;
+reg [7:0]product_i;
+
+always @(posedge clk or negedge n_rst)
+begin
+  if(!n_rst)
+    begin
+    state<=S0;
+    product<=8'b0;
+  end
+  else
+    begin
+    state<=next_state;
+    if (state>=1 && state<=4)
+      product_i<=(product_i[0]==1)?{{1'b0,product_i[7:4]}+{1'b0,multiplicand[3:0]},product_i[3:1]}:{1'b0,product_i[7:1]};
+    else if(state==0)
+	   begin 
+		valid<=1'b0;
+      product_i<=((start==1'b1)?{4'b0,multiplier_1}:8'b0);
+		end
+    else
+	 begin
+	   product<=product_i;
+		valid<=1'b1;
+		end
+  end
+end
+
+always@(start or state)
+begin
+  case(state)
+    S0:next_state=((start==1'b1)?S1:state);
+    S1:next_state=S2;
+    S2:next_state=S3;
+    S3:next_state=S4;
+    S4:next_state=S5;
+    S5:next_state=S0;
+    default:next_state=S0;
+  endcase
+end
+
+
+fnd_encoder f0(
+    .number(multiplicand),
+    .fnd_on(fnd_01)
+);
+
+
+
+fnd_encoder f1 (
+    .number(multiplier_1),
+    .fnd_on(fnd_02)
+);
+
+endmodule
+  

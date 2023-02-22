@@ -1,0 +1,22 @@
+C:/verilogHDL/L02_??????/fulladd16.v {1 {vlog -work work C:/verilogHDL/L02_??????/fulladd16.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module fulladd16
+
+Top level modules:
+	fulladd16
+
+} {} {}} C:/verilogHDL/L02_??????/fulladd4.v {1 {vlog -work work C:/verilogHDL/L02_??????/fulladd4.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module fulladd4
+
+Top level modules:
+	fulladd4
+
+} {} {}} C:/verilogHDL/L02_??????/tb_fulladd16.v {1 {vlog -work work C:/verilogHDL/L02_??????/tb_fulladd16.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module tb_fulladd16
+
+Top level modules:
+	tb_fulladd16
+
+} {} {}}

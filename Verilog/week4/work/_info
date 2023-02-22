@@ -1,0 +1,43 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Verilog\week3
+vhw_assign
+Z1 !s100 6[kZmMLRijPB51@maFPEB3
+Z2 IlfgSiG?z8nVR2B1<@^:T?0
+Z3 VN@lZ3k7FOJm9N]XIa@nIZ0
+Z4 dC:\Verilog\week4
+Z5 w1664340232
+Z6 8C:/Verilog/week4/hw_assign.v
+Z7 FC:/Verilog/week4/hw_assign.v
+L0 1
+Z8 OV;L;10.1d;51
+r1
+31
+Z9 !s90 -reportprogress|300|-work|work|C:/Verilog/week4/hw_assign.v|
+Z10 o-work work -O0
+!i10b 1
+!s85 0
+Z11 !s108 1664367083.494000
+Z12 !s107 C:/Verilog/week4/hw_assign.v|
+!s101 -O0
+vtb_hw_assign
+!i10b 1
+Z13 !s100 Pn2Vn8C]ABoN;aalma^gM1
+Z14 I<<F9llc@O_@1bE@3Z9RJ]1
+Z15 V:5nDP5Vd_=7NN_Tk:n_YE1
+R4
+Z16 w1664342449
+Z17 8C:/Verilog/week4/tb_hw_assign.v
+Z18 FC:/Verilog/week4/tb_hw_assign.v
+L0 3
+R8
+r1
+!s85 0
+31
+!s108 1664367083.584000
+!s107 C:/Verilog/week4/tb_hw_assign.v|
+Z19 !s90 -reportprogress|300|-work|work|C:/Verilog/week4/tb_hw_assign.v|
+!s101 -O0
+R10

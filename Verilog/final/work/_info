@@ -1,0 +1,62 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Verilog\mul_2
+vfinal_359
+Z1 IVS_aF1ZP;l^GCi<?O=Y?V1
+Z2 VNV4jRhn<niX`EF4NTd_S83
+Z3 dC:\Verilog\final
+Z4 w1671616510
+Z5 8C:/Verilog/final/final_359.v
+Z6 FC:/Verilog/final/final_359.v
+L0 1
+Z7 OV;L;10.1d;51
+r1
+31
+Z8 !s90 -reportprogress|300|-work|work|C:/Verilog/final/final_359.v|
+Z9 o-work work -O0
+!i10b 1
+Z10 !s100 h1o`N1V@oi:e]40AhAVo63
+!s85 0
+Z11 !s108 1671616510.936000
+Z12 !s107 C:/Verilog/final/final_359.v|
+!s101 -O0
+vtb_final_123
+Z13 !s100 F>S=[KfX;YAVz6EejWjhn1
+Z14 IOdoY?KECbc]5=z;WLbzgL0
+Z15 VDWC;_Fe2AUF3H9XjOH4nA1
+R3
+Z16 w1671609860
+Z17 8C:/Verilog/final/tb_final_359.v
+Z18 FC:/Verilog/final/tb_final_359.v
+L0 5
+R7
+r1
+31
+Z19 !s90 -reportprogress|300|-work|work|C:/Verilog/final/tb_final_359.v|
+R9
+Z20 !s108 1671610002.090000
+Z21 !s107 C:/Verilog/final/tb_final_359.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vtb_final_359
+!i10b 1
+Z22 !s100 9`97e7i3N4>QZ0mE?Z`][1
+Z23 I_Pk]kOGZXGFfHGa2n`0[X2
+Z24 V9YUYM:7@h^CHSLXB9R8aF1
+R3
+Z25 w1671615508
+R17
+R18
+L0 5
+R7
+r1
+!s85 0
+31
+!s108 1671616511.001000
+!s107 C:/Verilog/final/tb_final_359.v|
+R19
+!s101 -O0
+R9

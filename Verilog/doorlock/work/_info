@@ -1,0 +1,119 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Verilog
+vdoorlock
+Z1 !s100 O1hYA<<n;m71@m]cG1?co2
+Z2 Ik4W[?8=J6079zcE_P3IKG0
+Z3 V45`j7?DU2M9Za5VX_:2ZH0
+Z4 dC:\Verilog\doorlock
+Z5 w1668568532
+Z6 8C:/Verilog/doorlock/doorlock.v
+Z7 FC:/Verilog/doorlock/doorlock.v
+L0 1
+Z8 OV;L;10.1d;51
+r1
+31
+Z9 !s90 -reportprogress|300|-work|work|C:/Verilog/doorlock/doorlock.v|
+Z10 o-work work -O0
+Z11 !s108 1668689826.182000
+Z12 !s107 C:/Verilog/doorlock/doorlock.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vdoorlock_2
+Z13 !s100 S?699Gn`;nHGJ^2h1U7k<1
+Z14 I5:HEZ[=[3eb2fS=zDE];W1
+Z15 VZE@l;il:RPJU:=Z=IUc2a0
+R4
+Z16 w1668583830
+Z17 8C:/Verilog/doorlock/doorlock_2.v
+Z18 FC:/Verilog/doorlock/doorlock_2.v
+L0 1
+R8
+r1
+31
+Z19 !s90 -reportprogress|300|-work|work|C:/Verilog/doorlock/doorlock_2.v|
+R10
+Z20 !s108 1668689826.349000
+Z21 !s107 C:/Verilog/doorlock/doorlock_2.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vdoorlock_2_tb
+Z22 !s100 6cf6:_G3Cl5JU@hmmQ]LH3
+Z23 IcI[YQT<d]@Fz_<DJZ8hh;0
+Z24 V<S:h[[9gIGzETmM@g;5`:1
+R4
+Z25 w1668583947
+Z26 8C:/Verilog/doorlock/doorlock_2_tb.v
+Z27 FC:/Verilog/doorlock/doorlock_2_tb.v
+L0 5
+R8
+r1
+31
+Z28 !s90 -reportprogress|300|-work|work|C:/Verilog/doorlock/doorlock_2_tb.v|
+R10
+Z29 !s108 1668689826.416000
+Z30 !s107 C:/Verilog/doorlock/doorlock_2_tb.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vdoorlock_tb
+Z31 !s100 hVXEoB3U3o9R;lLe;8EGG3
+Z32 If?;:>IdWVzXC@Dz@D[7kh2
+Z33 VKzdUU8WT[G9aTU85D_8^j2
+R4
+Z34 w1668576425
+Z35 8C:/Verilog/doorlock/doorlock_tb.v
+Z36 FC:/Verilog/doorlock/doorlock_tb.v
+L0 5
+R8
+r1
+31
+Z37 !s90 -reportprogress|300|-work|work|C:/Verilog/doorlock/doorlock_tb.v|
+R10
+Z38 !s108 1668689826.282000
+Z39 !s107 C:/Verilog/doorlock/doorlock_tb.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vpractice
+Z40 !s100 P:ooP?fngVj5MaPIk=c6]0
+Z41 I^AEQjbn<GaR[T_ET0;VZz2
+Z42 VcGjRb3hSSmQ9MU4U54?7T1
+R4
+Z43 w1668581160
+Z44 8C:/Verilog/doorlock/practice.v
+Z45 FC:/Verilog/doorlock/practice.v
+L0 2
+R8
+r1
+31
+Z46 !s90 -reportprogress|300|-work|work|C:/Verilog/doorlock/practice.v|
+R10
+!i10b 1
+!s85 0
+Z47 !s108 1668689826.482000
+Z48 !s107 C:/Verilog/doorlock/practice.v|
+!s101 -O0
+vpractice_tb
+!i10b 1
+Z49 !s100 Wg00nW:HWeJD6NkDdKHQ71
+Z50 IiC[8LDa=S:bd5dV_;e5RH0
+Z51 VPmnN5mc=0Hga5zhe?TlO80
+R4
+Z52 w1668580363
+Z53 8C:/Verilog/doorlock/practice_tb.v
+Z54 FC:/Verilog/doorlock/practice_tb.v
+L0 5
+R8
+r1
+!s85 0
+31
+!s108 1668689826.556000
+!s107 C:/Verilog/doorlock/practice_tb.v|
+Z55 !s90 -reportprogress|300|-work|work|C:/Verilog/doorlock/practice_tb.v|
+!s101 -O0
+R10

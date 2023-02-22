@@ -1,0 +1,44 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Verilog\lab05_2input_BOOTH\sim\modelsim
+vBOOTH
+!i10b 1
+!s100 m3:;17VT;?S`i>f`=UD=a1
+ID:`Y?1U7W6J`C2e18L>[d2
+Z1 V:2i[JRUC:7J_VnESLOoJS2
+Z2 dC:\Verilog\lab05_2input_BOOTH\sim\modelsim
+w1676967812
+Z3 8../../src/rtl/BOOTH.v
+Z4 F../../src/rtl/BOOTH.v
+L0 3
+Z5 OV;L;10.1d;51
+r1
+!s85 0
+31
+Z6 !s108 1676967832.507000
+Z7 !s107 ../../testbench/testbench.v|../../src/rtl/BOOTH.v|
+Z8 !s90 -reportprogress|300|-f|run.f|
+!s101 -O0
+o-O0
+Z9 n@b@o@o@t@h
+vtestbench
+!i10b 1
+Z10 !s100 _WmG1Z_KVF@IMZl`igPbj0
+Z11 I26T2Z9_oK``;<R6Pco5aB1
+Z12 VhGfW:390DM[oDMzegDH9`2
+R2
+Z13 w1676966389
+Z14 8../../testbench/testbench.v
+Z15 F../../testbench/testbench.v
+L0 2
+R5
+r1
+!s85 0
+31
+R6
+R7
+R8
+!s101 -O0
+o-O0

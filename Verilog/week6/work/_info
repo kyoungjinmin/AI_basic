@@ -1,0 +1,157 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Verilog\week5
+valways_case
+Z1 !s100 XN9ocz[UO7RB^1HhVmN663
+Z2 IMSHYH:Jn`bIDgIa[6UL^J1
+Z3 VO=3Ah^a16a;WWzS028oKi0
+Z4 dC:\Verilog\week6
+Z5 w1665553401
+Z6 8C:/Verilog/week6/always_case.v
+Z7 FC:/Verilog/week6/always_case.v
+L0 1
+Z8 OV;L;10.1d;51
+r1
+31
+Z9 !s90 -reportprogress|300|-work|work|C:/Verilog/week6/always_case.v|
+Z10 o-work work -O0
+Z11 !s108 1665721761.608000
+Z12 !s107 C:/Verilog/week6/always_case.v|
+!i10b 1
+!s85 0
+!s101 -O0
+valways_if_else
+Z13 !s100 Ez673gLL<2oZYo`_dB0mV1
+Z14 IcNkhF7d<8T>hLlO<eETWC3
+Z15 V@bU>HgIhi_G>9?>@<:9T60
+R4
+Z16 w1665554779
+Z17 8C:/Verilog/week6/always_if_else.v
+Z18 FC:/Verilog/week6/always_if_else.v
+L0 1
+R8
+r1
+31
+Z19 !s90 -reportprogress|300|-work|work|C:/Verilog/week6/always_if_else.v|
+R10
+Z20 !s108 1665721761.676000
+Z21 !s107 C:/Verilog/week6/always_if_else.v|
+!i10b 1
+!s85 0
+!s101 -O0
+valways_tb
+Z22 InzYYknOI4FV;5hbBHTai_0
+Z23 VfD1l7Nd@FENgQV6hZ0Cch2
+R4
+Z24 w1665555457
+Z25 8C:/Verilog/week6/always_tb.v
+Z26 FC:/Verilog/week6/always_tb.v
+L0 3
+R8
+r1
+31
+R10
+Z27 !s100 _XjBOmKnUAiN^0`PB_TH93
+Z28 !s108 1665721761.505000
+Z29 !s107 C:/Verilog/week6/always_tb.v|
+Z30 !s90 -reportprogress|300|-work|work|C:/Verilog/week6/always_tb.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vh_always
+Z31 !s100 COU_c2MCT8;3kzI03?PM<3
+Z32 IgN@YI8k:NDVoJ0n_Q_U9T2
+Z33 V]FcUTYhOMCTQ=1j9lzkM:3
+R4
+Z34 w1665555136
+Z35 8C:/Verilog/week6/h_always.v
+Z36 FC:/Verilog/week6/h_always.v
+L0 1
+R8
+r1
+31
+Z37 !s90 -reportprogress|300|-work|work|C:/Verilog/week6/h_always.v|
+R10
+!i10b 1
+!s85 0
+Z38 !s108 1665721761.740000
+Z39 !s107 C:/Verilog/week6/h_always.v|
+!s101 -O0
+vh_assign
+!i10b 1
+Z40 !s100 YfEn6mbA5Fmj1PV>;Ub^_0
+Z41 IS[_KZBQbRmg]OGU73d@9C1
+Z42 Vh@U@DlBCMI[Ag7KUVIT`@1
+R4
+Z43 w1665555137
+Z44 8C:/Verilog/week6/h_assign.v
+Z45 FC:/Verilog/week6/h_assign.v
+L0 2
+R8
+r1
+!s85 0
+31
+!s108 1665721761.808000
+!s107 C:/Verilog/week6/h_assign.v|
+Z46 !s90 -reportprogress|300|-work|work|C:/Verilog/week6/h_assign.v|
+!s101 -O0
+R10
+vhw_always
+Z47 !s100 54AV6k:g:D[Kg3=iK;kTd0
+Z48 Ik2cePiSHdJj>=>KG>>On>1
+Z49 VKP:^;K]DzTAb:TgmZXXo10
+R4
+Z50 w1665547787
+Z51 8C:\Verilog\week6\always.v
+Z52 FC:\Verilog\week6\always.v
+L0 1
+R8
+r1
+31
+Z53 !s90 -reportprogress|300|-work|work|C:\Verilog\week6\always.v|
+R10
+Z54 !s108 1665548082.120000
+Z55 !s107 C:\Verilog\week6\always.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vhw_always_case
+Z56 !s100 <D>210cQ::k^ND>>Uf54D0
+Z57 IK:onllcV5JbnXBU_cTo7H3
+Z58 V1:Pok1<R2DJJC]deadZIB3
+R4
+Z59 w1665548636
+R6
+R7
+L0 1
+R8
+r1
+31
+R9
+R10
+Z60 !s108 1665548678.419000
+R12
+!i10b 1
+!s85 0
+!s101 -O0
+vhw_always_if_else
+Z61 !s100 T7ZPg:SPk:3O=6A_8U?g50
+Z62 I<3QGBgNbV<:BMRaS6H1Ve0
+Z63 VZ41UA[DRT@=2JU@]c_0MY1
+R4
+Z64 w1665548567
+R17
+R18
+L0 1
+R8
+r1
+31
+R19
+R10
+Z65 !s108 1665548708.327000
+R21
+!i10b 1
+!s85 0
+!s101 -O0
